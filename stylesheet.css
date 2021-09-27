@@ -1,0 +1,76 @@
+body{
+  font-family: 'Times New Roman', Times, serif; 
+  font-size:130%;
+  background-color: #FCF7F8;
+  
+  
+  
+}
+
+header {
+  background-color: black;
+  text-align: center;
+  padding-top: 10px;
+
+}
+
+footer {
+  background-color: black;
+  text-align: center;
+  justify-content: center;
+ 
+  
+}
+
+
+.headshot{
+  border-radius: 50%;
+  border: whitesmoke 5px solid;
+   
+}
+
+.name{color: whitesmoke;
+}
+
+.intro{color: whitesmoke;
+  
+  
+}
+
+
+
+section{
+  margin-left: 30px;
+  
+}
+
+aside{padding-top: 15px;
+}
+
+.sidenav{
+  height: 935px; 
+  width: 160px; 
+  position:absolute; 
+  background-color:grey; 
+  overflow-x: hidden; 
+  padding-top: 20px;
+  display: block;
+  padding-left: 5px;
+
+}
+.details{color: white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
